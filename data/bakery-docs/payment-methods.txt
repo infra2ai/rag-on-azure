@@ -1,0 +1,4 @@
+Blue Penguin Bakery payment methods.
+We accept cash in Swiss francs, debit and credit cards (Visa, Mastercard, Maestro), TWINT and Apple Pay.
+We do not accept euros or cheques.
+Online orders are paid by card or TWINT.
